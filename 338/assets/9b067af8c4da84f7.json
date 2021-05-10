@@ -1,0 +1,179 @@
+﻿{"frames": {
+
+"Battery_holder_qc.png copy":
+{
+	"frame": {"x":2,"y":2,"w":268,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":87},
+	"sourceSize": {"w":268,"h":87}
+},
+"Battery_qc.png copy":
+{
+	"frame": {"x":272,"y":2,"w":122,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":47},
+	"sourceSize": {"w":122,"h":47}
+},
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":91,"w":844,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":844,"h":113},
+	"sourceSize": {"w":844,"h":113}
+},
+"Bitmap 2":
+{
+	"frame": {"x":848,"y":91,"w":122,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":47},
+	"sourceSize": {"w":122,"h":47}
+},
+"Bitmap 3":
+{
+	"frame": {"x":2,"y":206,"w":208,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":208},
+	"sourceSize": {"w":208,"h":208}
+},
+"DX_Lamp_power_normal_qc.png":
+{
+	"frame": {"x":212,"y":206,"w":99,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":90},
+	"sourceSize": {"w":99,"h":90}
+},
+"bulb_holder_qc.png copy":
+{
+	"frame": {"x":313,"y":206,"w":239,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":59},
+	"sourceSize": {"w":239,"h":59}
+},
+"buld_qc.png":
+{
+	"frame": {"x":554,"y":206,"w":52,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":81},
+	"sourceSize": {"w":52,"h":81}
+},
+"buld_qc.png copy":
+{
+	"frame": {"x":554,"y":206,"w":52,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":81},
+	"sourceSize": {"w":52,"h":81}
+},
+"check_machine_Line_damage_qc.png copy":
+{
+	"frame": {"x":2,"y":416,"w":844,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":844,"h":296},
+	"sourceSize": {"w":844,"h":296}
+},
+"conducting.png":
+{
+	"frame": {"x":848,"y":416,"w":43,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":42},
+	"sourceSize": {"w":43,"h":42}
+},
+"hitArea":
+{
+	"frame": {"x":893,"y":416,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+"left_line_damage_qc.png":
+{
+	"frame": {"x":2,"y":714,"w":199,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":18},
+	"sourceSize": {"w":199,"h":18}
+},
+"left_line_damage_qc.png copy":
+{
+	"frame": {"x":2,"y":714,"w":199,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":18},
+	"sourceSize": {"w":199,"h":18}
+},
+"noconducting.png":
+{
+	"frame": {"x":203,"y":714,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"导 线_qc.png copy":
+{
+	"frame": {"x":243,"y":714,"w":89,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":43},
+	"sourceSize": {"w":89,"h":43}
+},
+"小灯泡_qc.png copy":
+{
+	"frame": {"x":334,"y":714,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43}
+},
+"灯座_qc.png copy":
+{
+	"frame": {"x":452,"y":714,"w":89,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":43},
+	"sourceSize": {"w":89,"h":43}
+},
+"电 池_qc.png copy":
+{
+	"frame": {"x":543,"y":714,"w":89,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":43},
+	"sourceSize": {"w":89,"h":43}
+},
+"电池座_qc.png copy":
+{
+	"frame": {"x":634,"y":714,"w":114,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":43},
+	"sourceSize": {"w":114,"h":43}
+},
+"电路检测器_qc.png copy":
+{
+	"frame": {"x":750,"y":714,"w":188,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":43},
+	"sourceSize": {"w":188,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"9b067af8c4da84f7.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

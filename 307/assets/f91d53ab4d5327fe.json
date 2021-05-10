@@ -1,0 +1,347 @@
+﻿{"frames": {
+
+"3个套有气球的锥形瓶_qc.png":
+{
+	"frame": {"x":2,"y":2,"w":288,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":44},
+	"sourceSize": {"w":288,"h":44}
+},
+"Bitmap 1":
+{
+	"frame": {"x":292,"y":2,"w":61,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":125},
+	"sourceSize": {"w":61,"h":125}
+},
+"Bitmap 10":
+{
+	"frame": {"x":292,"y":2,"w":61,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":125},
+	"sourceSize": {"w":61,"h":125}
+},
+"Bitmap 11":
+{
+	"frame": {"x":355,"y":2,"w":62,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":125},
+	"sourceSize": {"w":62,"h":125}
+},
+"Bitmap 12":
+{
+	"frame": {"x":419,"y":2,"w":62,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":126},
+	"sourceSize": {"w":62,"h":126}
+},
+"Bitmap 13":
+{
+	"frame": {"x":483,"y":2,"w":62,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":126},
+	"sourceSize": {"w":62,"h":126}
+},
+"Bitmap 14":
+{
+	"frame": {"x":547,"y":2,"w":62,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":127},
+	"sourceSize": {"w":62,"h":127}
+},
+"Bitmap 15":
+{
+	"frame": {"x":611,"y":2,"w":62,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":127},
+	"sourceSize": {"w":62,"h":127}
+},
+"Bitmap 16":
+{
+	"frame": {"x":675,"y":2,"w":63,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":128},
+	"sourceSize": {"w":63,"h":128}
+},
+"Bitmap 17":
+{
+	"frame": {"x":740,"y":2,"w":63,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":128},
+	"sourceSize": {"w":63,"h":128}
+},
+"Bitmap 18":
+{
+	"frame": {"x":805,"y":2,"w":63,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":129},
+	"sourceSize": {"w":63,"h":129}
+},
+"Bitmap 19":
+{
+	"frame": {"x":870,"y":2,"w":63,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":129},
+	"sourceSize": {"w":63,"h":129}
+},
+"Bitmap 2":
+{
+	"frame": {"x":935,"y":2,"w":60,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":117},
+	"sourceSize": {"w":60,"h":117}
+},
+"Bitmap 20":
+{
+	"frame": {"x":870,"y":2,"w":63,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":129},
+	"sourceSize": {"w":63,"h":129}
+},
+"Bitmap 21":
+{
+	"frame": {"x":2,"y":133,"w":65,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":130},
+	"sourceSize": {"w":65,"h":130}
+},
+"Bitmap 22":
+{
+	"frame": {"x":69,"y":133,"w":66,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":132},
+	"sourceSize": {"w":66,"h":132}
+},
+"Bitmap 23":
+{
+	"frame": {"x":137,"y":133,"w":68,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":133},
+	"sourceSize": {"w":68,"h":133}
+},
+"Bitmap 24":
+{
+	"frame": {"x":207,"y":133,"w":70,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":134},
+	"sourceSize": {"w":70,"h":134}
+},
+"Bitmap 25":
+{
+	"frame": {"x":279,"y":133,"w":72,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":135},
+	"sourceSize": {"w":72,"h":135}
+},
+"Bitmap 26":
+{
+	"frame": {"x":353,"y":133,"w":74,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":137},
+	"sourceSize": {"w":74,"h":137}
+},
+"Bitmap 27":
+{
+	"frame": {"x":429,"y":133,"w":77,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":138},
+	"sourceSize": {"w":77,"h":138}
+},
+"Bitmap 28":
+{
+	"frame": {"x":508,"y":133,"w":80,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":139},
+	"sourceSize": {"w":80,"h":139}
+},
+"Bitmap 29":
+{
+	"frame": {"x":590,"y":133,"w":83,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":141},
+	"sourceSize": {"w":83,"h":141}
+},
+"Bitmap 3":
+{
+	"frame": {"x":675,"y":133,"w":59,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":109},
+	"sourceSize": {"w":59,"h":109}
+},
+"Bitmap 30":
+{
+	"frame": {"x":736,"y":133,"w":86,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":142},
+	"sourceSize": {"w":86,"h":142}
+},
+"Bitmap 31":
+{
+	"frame": {"x":2,"y":277,"w":217,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":236},
+	"sourceSize": {"w":217,"h":236}
+},
+"Bitmap 32":
+{
+	"frame": {"x":221,"y":277,"w":176,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":63},
+	"sourceSize": {"w":176,"h":63}
+},
+"Bitmap 4":
+{
+	"frame": {"x":399,"y":277,"w":58,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":101},
+	"sourceSize": {"w":58,"h":101}
+},
+"Bitmap 5":
+{
+	"frame": {"x":459,"y":277,"w":57,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":94},
+	"sourceSize": {"w":57,"h":94}
+},
+"Bitmap 6":
+{
+	"frame": {"x":518,"y":277,"w":56,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":86},
+	"sourceSize": {"w":56,"h":86}
+},
+"Bitmap 6222":
+{
+	"frame": {"x":576,"y":277,"w":287,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":270},
+	"sourceSize": {"w":287,"h":270}
+},
+"Bitmap 7":
+{
+	"frame": {"x":865,"y":277,"w":56,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":79},
+	"sourceSize": {"w":56,"h":79}
+},
+"Bitmap 8":
+{
+	"frame": {"x":923,"y":277,"w":55,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":73},
+	"sourceSize": {"w":55,"h":73}
+},
+"Bitmap 9":
+{
+	"frame": {"x":2,"y":549,"w":55,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":68},
+	"sourceSize": {"w":55,"h":68}
+},
+"balloon_off_qc.png":
+{
+	"frame": {"x":59,"y":549,"w":102,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":67},
+	"sourceSize": {"w":102,"h":67}
+},
+"conical_flask_qc.png":
+{
+	"frame": {"x":163,"y":549,"w":167,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":218},
+	"sourceSize": {"w":167,"h":218}
+},
+"cool_beaker_qc.png":
+{
+	"frame": {"x":332,"y":549,"w":234,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":265},
+	"sourceSize": {"w":234,"h":265}
+},
+"hot_beaker_qc.png":
+{
+	"frame": {"x":568,"y":549,"w":234,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":265},
+	"sourceSize": {"w":234,"h":265}
+},
+"normal_beaker_qc.png":
+{
+	"frame": {"x":568,"y":549,"w":234,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":265},
+	"sourceSize": {"w":234,"h":265}
+},
+"装有冷水的烧杯_qc.png":
+{
+	"frame": {"x":2,"y":816,"w":253,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":43},
+	"sourceSize": {"w":253,"h":43}
+},
+"装有常温水的烧杯.png":
+{
+	"frame": {"x":257,"y":816,"w":288,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":43},
+	"sourceSize": {"w":288,"h":43}
+},
+"装有热水的烧杯_qc.png":
+{
+	"frame": {"x":547,"y":816,"w":253,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":43},
+	"sourceSize": {"w":253,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"f91d53ab4d5327fe.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

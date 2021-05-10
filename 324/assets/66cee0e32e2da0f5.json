@@ -1,0 +1,123 @@
+﻿{"frames": {
+
+"111111":
+{
+	"frame": {"x":2,"y":2,"w":307,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":4},
+	"sourceSize": {"w":307,"h":4}
+},
+"Bitmap 1":
+{
+	"frame": {"x":311,"y":2,"w":402,"h":438},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":402,"h":438},
+	"sourceSize": {"w":402,"h":438}
+},
+"Bitmap 5":
+{
+	"frame": {"x":715,"y":2,"w":196,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":139},
+	"sourceSize": {"w":196,"h":139}
+},
+"Bitmap 6":
+{
+	"frame": {"x":913,"y":2,"w":4,"h":383},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":383},
+	"sourceSize": {"w":4,"h":383}
+},
+"Bitmap 7":
+{
+	"frame": {"x":2,"y":442,"w":535,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":535,"h":7},
+	"sourceSize": {"w":535,"h":7}
+},
+"beaker_qc.png copy 2":
+{
+	"frame": {"x":539,"y":442,"w":273,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":309},
+	"sourceSize": {"w":273,"h":309}
+},
+"glass_bar.png copy":
+{
+	"frame": {"x":2,"y":753,"w":349,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":349,"h":94},
+	"sourceSize": {"w":349,"h":94}
+},
+"potato_big_qc.png":
+{
+	"frame": {"x":353,"y":753,"w":183,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":105},
+	"sourceSize": {"w":183,"h":105}
+},
+"potato_big_qc.png copy":
+{
+	"frame": {"x":353,"y":753,"w":183,"h":105},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":105},
+	"sourceSize": {"w":183,"h":105}
+},
+"spoon_salt_qc.png copy":
+{
+	"frame": {"x":538,"y":753,"w":199,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":143},
+	"sourceSize": {"w":199,"h":143}
+},
+"玻璃棒_qc.png copy":
+{
+	"frame": {"x":739,"y":753,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43}
+},
+"装有200mL清水的烧杯_qc.png copy":
+{
+	"frame": {"x":2,"y":898,"w":373,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":373,"h":45},
+	"sourceSize": {"w":373,"h":45}
+},
+"装有2克盐的钢勺_qc.png copy":
+{
+	"frame": {"x":377,"y":898,"w":282,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":282,"h":44},
+	"sourceSize": {"w":282,"h":44}
+},
+"马铃薯_qc.png copy":
+{
+	"frame": {"x":661,"y":898,"w":113,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":44},
+	"sourceSize": {"w":113,"h":44}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"66cee0e32e2da0f5.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

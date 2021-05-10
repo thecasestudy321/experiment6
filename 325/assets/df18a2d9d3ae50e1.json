@@ -1,0 +1,227 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":52,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":37},
+	"sourceSize": {"w":52,"h":37}
+},
+"Bitmap 10":
+{
+	"frame": {"x":56,"y":2,"w":294,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":126},
+	"sourceSize": {"w":294,"h":126}
+},
+"Bitmap 11":
+{
+	"frame": {"x":352,"y":2,"w":294,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":126},
+	"sourceSize": {"w":294,"h":126}
+},
+"Bitmap 12":
+{
+	"frame": {"x":648,"y":2,"w":294,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":126},
+	"sourceSize": {"w":294,"h":126}
+},
+"Bitmap 13":
+{
+	"frame": {"x":2,"y":130,"w":294,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":126},
+	"sourceSize": {"w":294,"h":126}
+},
+"Bitmap 3":
+{
+	"frame": {"x":298,"y":130,"w":52,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":37},
+	"sourceSize": {"w":52,"h":37}
+},
+"Bitmap 4":
+{
+	"frame": {"x":2,"y":258,"w":764,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":764,"h":119},
+	"sourceSize": {"w":764,"h":119}
+},
+"Bitmap 6":
+{
+	"frame": {"x":768,"y":258,"w":208,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":208},
+	"sourceSize": {"w":208,"h":208}
+},
+"Bitmap 7":
+{
+	"frame": {"x":2,"y":468,"w":150,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":55},
+	"sourceSize": {"w":150,"h":55}
+},
+"Bitmap 8":
+{
+	"frame": {"x":154,"y":468,"w":294,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":126},
+	"sourceSize": {"w":294,"h":126}
+},
+"Bitmap 9":
+{
+	"frame": {"x":450,"y":468,"w":294,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":126},
+	"sourceSize": {"w":294,"h":126}
+},
+"DX_Lamp_power_normal.png":
+{
+	"frame": {"x":746,"y":468,"w":99,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":90},
+	"sourceSize": {"w":99,"h":90}
+},
+"DX_Lamp_power_off.png copy 2":
+{
+	"frame": {"x":847,"y":468,"w":51,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":80},
+	"sourceSize": {"w":51,"h":80}
+},
+"buld.png":
+{
+	"frame": {"x":847,"y":468,"w":51,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":80},
+	"sourceSize": {"w":51,"h":80}
+},
+"holders.png":
+{
+	"frame": {"x":2,"y":596,"w":776,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":776,"h":250},
+	"sourceSize": {"w":776,"h":250}
+},
+"holders.png copy":
+{
+	"frame": {"x":2,"y":848,"w":721,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":721,"h":87},
+	"sourceSize": {"w":721,"h":87}
+},
+"light_number1.png":
+{
+	"frame": {"x":725,"y":848,"w":13,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":19},
+	"sourceSize": {"w":13,"h":19}
+},
+"light_number2.png":
+{
+	"frame": {"x":740,"y":848,"w":17,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":19},
+	"sourceSize": {"w":17,"h":19}
+},
+"light_number3.png":
+{
+	"frame": {"x":759,"y":848,"w":18,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":22},
+	"sourceSize": {"w":18,"h":22}
+},
+"light_number4.png":
+{
+	"frame": {"x":779,"y":848,"w":19,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":22},
+	"sourceSize": {"w":19,"h":22}
+},
+"right.png":
+{
+	"frame": {"x":800,"y":848,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70}
+},
+"wiring_box.png":
+{
+	"frame": {"x":2,"y":937,"w":294,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":161},
+	"sourceSize": {"w":294,"h":161}
+},
+"wiring_box.png copy":
+{
+	"frame": {"x":2,"y":937,"w":294,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":161},
+	"sourceSize": {"w":294,"h":161}
+},
+"wiring_box_inner.png":
+{
+	"frame": {"x":298,"y":937,"w":294,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":126},
+	"sourceSize": {"w":294,"h":126}
+},
+"接 线 盒_qc.png":
+{
+	"frame": {"x":594,"y":937,"w":132,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":43},
+	"sourceSize": {"w":132,"h":43}
+},
+"电路检测器_qc.png":
+{
+	"frame": {"x":728,"y":937,"w":182,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":43},
+	"sourceSize": {"w":182,"h":43}
+},
+"表格.png":
+{
+	"frame": {"x":2,"y":1100,"w":965,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":965,"h":165},
+	"sourceSize": {"w":965,"h":165}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"df18a2d9d3ae50e1.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

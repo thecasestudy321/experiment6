@@ -1,0 +1,163 @@
+﻿{"frames": {
+
+"BatteryPackLugs_left.png":
+{
+	"frame": {"x":2,"y":2,"w":52,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":37},
+	"sourceSize": {"w":52,"h":37}
+},
+"Bitmap 3":
+{
+	"frame": {"x":56,"y":2,"w":52,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":37},
+	"sourceSize": {"w":52,"h":37}
+},
+"Bitmap 4":
+{
+	"frame": {"x":110,"y":2,"w":208,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":208},
+	"sourceSize": {"w":208,"h":208}
+},
+"Bitmap 5":
+{
+	"frame": {"x":320,"y":2,"w":21,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":14},
+	"sourceSize": {"w":21,"h":14}
+},
+"Bitmap 6":
+{
+	"frame": {"x":343,"y":2,"w":76,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":123},
+	"sourceSize": {"w":76,"h":123}
+},
+"DX_Lamp_power_normal.png":
+{
+	"frame": {"x":421,"y":2,"w":99,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":90},
+	"sourceSize": {"w":99,"h":90}
+},
+"blud_qc.png":
+{
+	"frame": {"x":522,"y":2,"w":396,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":400},
+	"sourceSize": {"w":396,"h":400}
+},
+"broad_qc.png":
+{
+	"frame": {"x":2,"y":404,"w":166,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":95},
+	"sourceSize": {"w":166,"h":95}
+},
+"buld.png":
+{
+	"frame": {"x":170,"y":404,"w":51,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":80},
+	"sourceSize": {"w":51,"h":80}
+},
+"check.png":
+{
+	"frame": {"x":223,"y":404,"w":341,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":341,"h":350},
+	"sourceSize": {"w":341,"h":350}
+},
+"hitTest":
+{
+	"frame": {"x":566,"y":404,"w":35,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":25},
+	"sourceSize": {"w":35,"h":25}
+},
+"left_pushpin.png":
+{
+	"frame": {"x":603,"y":404,"w":28,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":16},
+	"sourceSize": {"w":28,"h":16}
+},
+"paper_clip.png":
+{
+	"frame": {"x":633,"y":404,"w":125,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":18},
+	"sourceSize": {"w":125,"h":18}
+},
+"paper_clip_qc.png":
+{
+	"frame": {"x":760,"y":404,"w":125,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":18},
+	"sourceSize": {"w":125,"h":18}
+},
+"right.png":
+{
+	"frame": {"x":887,"y":404,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70}
+},
+"wood_board.png":
+{
+	"frame": {"x":2,"y":756,"w":166,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":95},
+	"sourceSize": {"w":166,"h":95}
+},
+"掰弯的回形针_qc.png":
+{
+	"frame": {"x":170,"y":756,"w":219,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":44},
+	"sourceSize": {"w":219,"h":44}
+},
+"连接好的电路_qc.png":
+{
+	"frame": {"x":391,"y":756,"w":219,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":43},
+	"sourceSize": {"w":219,"h":43}
+},
+"钉有大头针的木板_qc.png":
+{
+	"frame": {"x":612,"y":756,"w":288,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":44},
+	"sourceSize": {"w":288,"h":44}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"137a62b429dba18f.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

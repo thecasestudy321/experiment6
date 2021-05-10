@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":476,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":476,"h":27},
+	"sourceSize": {"w":476,"h":27}
+},
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":31,"w":183,"h":419},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":419},
+	"sourceSize": {"w":183,"h":419}
+},
+"hook.png":
+{
+	"frame": {"x":187,"y":31,"w":16,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":23},
+	"sourceSize": {"w":16,"h":23}
+},
+"hook_code.png":
+{
+	"frame": {"x":205,"y":31,"w":37,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":69},
+	"sourceSize": {"w":37,"h":69}
+},
+"nut.png":
+{
+	"frame": {"x":244,"y":31,"w":20,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":18},
+	"sourceSize": {"w":20,"h":18}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"5171278df478c53b.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

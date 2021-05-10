@@ -1,0 +1,163 @@
+﻿{"frames": {
+
+"5号电池_qc.png":
+{
+	"frame": {"x":2,"y":2,"w":138,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":43},
+	"sourceSize": {"w":138,"h":43}
+},
+"Battery.png":
+{
+	"frame": {"x":142,"y":2,"w":118,"h":304},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":304},
+	"sourceSize": {"w":118,"h":304}
+},
+"Battery_qc.png":
+{
+	"frame": {"x":262,"y":2,"w":80,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":205},
+	"sourceSize": {"w":80,"h":205}
+},
+"Bitmap 17":
+{
+	"frame": {"x":344,"y":2,"w":130,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":64},
+	"sourceSize": {"w":130,"h":64}
+},
+"Bitmap 18":
+{
+	"frame": {"x":2,"y":308,"w":115,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":54},
+	"sourceSize": {"w":115,"h":54}
+},
+"Bitmap 19":
+{
+	"frame": {"x":119,"y":308,"w":130,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":64},
+	"sourceSize": {"w":130,"h":64}
+},
+"Bitmap 5":
+{
+	"frame": {"x":2,"y":374,"w":276,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":276,"h":31},
+	"sourceSize": {"w":276,"h":31}
+},
+"Bitmap 6":
+{
+	"frame": {"x":280,"y":374,"w":49,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":7},
+	"sourceSize": {"w":49,"h":7}
+},
+"Bitmap 7":
+{
+	"frame": {"x":331,"y":374,"w":126,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":8},
+	"sourceSize": {"w":126,"h":8}
+},
+"ElecWire_qc.png":
+{
+	"frame": {"x":2,"y":407,"w":166,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":8},
+	"sourceSize": {"w":166,"h":8}
+},
+"addLight":
+{
+	"frame": {"x":170,"y":407,"w":208,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":208},
+	"sourceSize": {"w":208,"h":208}
+},
+"hitTest":
+{
+	"frame": {"x":380,"y":407,"w":112,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":96},
+	"sourceSize": {"w":112,"h":96}
+},
+"power_off.png":
+{
+	"frame": {"x":2,"y":617,"w":142,"h":215},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":215},
+	"sourceSize": {"w":142,"h":215}
+},
+"power_off_qc.png":
+{
+	"frame": {"x":146,"y":617,"w":88,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":133},
+	"sourceSize": {"w":88,"h":133}
+},
+"power_on.png":
+{
+	"frame": {"x":236,"y":617,"w":182,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":228},
+	"sourceSize": {"w":182,"h":228}
+},
+"right.png":
+{
+	"frame": {"x":420,"y":617,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70}
+},
+"rotation_icon.png":
+{
+	"frame": {"x":2,"y":847,"w":40,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":36},
+	"sourceSize": {"w":40,"h":36}
+},
+"导 线_qc.png":
+{
+	"frame": {"x":44,"y":847,"w":89,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":43},
+	"sourceSize": {"w":89,"h":43}
+},
+"小灯泡_qc.png":
+{
+	"frame": {"x":135,"y":847,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"75ace242c4591bf1.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

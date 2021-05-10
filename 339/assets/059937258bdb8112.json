@@ -1,0 +1,171 @@
+﻿{"frames": {
+
+"5号电池_qc.png copy":
+{
+	"frame": {"x":2,"y":2,"w":138,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":43},
+	"sourceSize": {"w":138,"h":43}
+},
+"Battery holder_em_qc.png":
+{
+	"frame": {"x":142,"y":2,"w":268,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":85},
+	"sourceSize": {"w":268,"h":85}
+},
+"Battery holder_em_qc.png copy":
+{
+	"frame": {"x":142,"y":2,"w":268,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":85},
+	"sourceSize": {"w":268,"h":85}
+},
+"Battery holder_full_qc.png":
+{
+	"frame": {"x":2,"y":89,"w":268,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":85},
+	"sourceSize": {"w":268,"h":85}
+},
+"Battery_qc.png":
+{
+	"frame": {"x":272,"y":89,"w":125,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":49},
+	"sourceSize": {"w":125,"h":49}
+},
+"Battery_qc.png copy":
+{
+	"frame": {"x":272,"y":89,"w":125,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":125,"h":49},
+	"sourceSize": {"w":125,"h":49}
+},
+"Bitmap 1":
+{
+	"frame": {"x":399,"y":89,"w":52,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":37},
+	"sourceSize": {"w":52,"h":37}
+},
+"Bitmap 5":
+{
+	"frame": {"x":2,"y":176,"w":208,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":208},
+	"sourceSize": {"w":208,"h":208}
+},
+"DX_Lamp_power_normal.png":
+{
+	"frame": {"x":212,"y":176,"w":99,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":90},
+	"sourceSize": {"w":99,"h":90}
+},
+"ElecWire_qc.png copy":
+{
+	"frame": {"x":313,"y":176,"w":166,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":8},
+	"sourceSize": {"w":166,"h":8}
+},
+"lamp_handler_em_qc.png":
+{
+	"frame": {"x":2,"y":386,"w":239,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":59},
+	"sourceSize": {"w":239,"h":59}
+},
+"lamp_handler_em_qc.png copy":
+{
+	"frame": {"x":2,"y":386,"w":239,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":59},
+	"sourceSize": {"w":239,"h":59}
+},
+"lamp_handler_qc.png":
+{
+	"frame": {"x":243,"y":386,"w":239,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":110},
+	"sourceSize": {"w":239,"h":110}
+},
+"power_off_qc.png":
+{
+	"frame": {"x":2,"y":498,"w":55,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":86},
+	"sourceSize": {"w":55,"h":86}
+},
+"power_off_qc.png copy":
+{
+	"frame": {"x":2,"y":498,"w":55,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":86},
+	"sourceSize": {"w":55,"h":86}
+},
+"right.png":
+{
+	"frame": {"x":59,"y":498,"w":80,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":70},
+	"sourceSize": {"w":80,"h":70}
+},
+"导 线_qc.png copy":
+{
+	"frame": {"x":141,"y":498,"w":138,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":43},
+	"sourceSize": {"w":138,"h":43}
+},
+"小灯泡_qc.png copy":
+{
+	"frame": {"x":281,"y":498,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43}
+},
+"灯泡底座_qc.png copy":
+{
+	"frame": {"x":2,"y":586,"w":152,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":43},
+	"sourceSize": {"w":152,"h":43}
+},
+"电池底座_qc.png copy":
+{
+	"frame": {"x":156,"y":586,"w":151,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":43},
+	"sourceSize": {"w":151,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"059937258bdb8112.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

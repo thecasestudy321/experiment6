@@ -1,0 +1,179 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":172,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":88},
+	"sourceSize": {"w":172,"h":88}
+},
+"Bitmap 10.png":
+{
+	"frame": {"x":176,"y":2,"w":5,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":342},
+	"sourceSize": {"w":5,"h":342}
+},
+"Bitmap 10new":
+{
+	"frame": {"x":183,"y":2,"w":44,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":22},
+	"sourceSize": {"w":44,"h":22}
+},
+"Bitmap 11.png":
+{
+	"frame": {"x":229,"y":2,"w":5,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":12},
+	"sourceSize": {"w":5,"h":12}
+},
+"Bitmap 1fu":
+{
+	"frame": {"x":236,"y":2,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"Bitmap 2":
+{
+	"frame": {"x":258,"y":2,"w":292,"h":514},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":292,"h":514},
+	"sourceSize": {"w":292,"h":514}
+},
+"Bitmap 28new":
+{
+	"frame": {"x":552,"y":2,"w":38,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":38},
+	"sourceSize": {"w":38,"h":38}
+},
+"Bitmap 4":
+{
+	"frame": {"x":592,"y":2,"w":261,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":70},
+	"sourceSize": {"w":261,"h":70}
+},
+"Bitmap 62":
+{
+	"frame": {"x":855,"y":2,"w":146,"h":245},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":245},
+	"sourceSize": {"w":146,"h":245}
+},
+"Bitmap 69":
+{
+	"frame": {"x":1003,"y":2,"w":128,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":139},
+	"sourceSize": {"w":128,"h":139}
+},
+"Bitmap 6new":
+{
+	"frame": {"x":1133,"y":2,"w":11,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":24},
+	"sourceSize": {"w":11,"h":24}
+},
+"Bitmap 74":
+{
+	"frame": {"x":1146,"y":2,"w":131,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":126},
+	"sourceSize": {"w":131,"h":126}
+},
+"Bitmap 75":
+{
+	"frame": {"x":1279,"y":2,"w":128,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":139},
+	"sourceSize": {"w":128,"h":139}
+},
+"Bitmap 77":
+{
+	"frame": {"x":1409,"y":2,"w":462,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":462,"h":103},
+	"sourceSize": {"w":462,"h":103}
+},
+"Bitmap 88":
+{
+	"frame": {"x":2,"y":518,"w":1444,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1444,"h":24},
+	"sourceSize": {"w":1444,"h":24}
+},
+"Bitmap 9":
+{
+	"frame": {"x":1448,"y":518,"w":70,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":84},
+	"sourceSize": {"w":70,"h":84}
+},
+"hitArea":
+{
+	"frame": {"x":1520,"y":518,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"magnifier glass.png":
+{
+	"frame": {"x":1572,"y":518,"w":330,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":305},
+	"sourceSize": {"w":330,"h":305}
+},
+"thermometer_big1.png copy":
+{
+	"frame": {"x":1904,"y":518,"w":90,"h":1306},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":1306},
+	"sourceSize": {"w":90,"h":1306}
+},
+"thermometer_up.png":
+{
+	"frame": {"x":1996,"y":518,"w":22,"h":436},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":436},
+	"sourceSize": {"w":22,"h":436}
+},
+"yellow":
+{
+	"frame": {"x":2,"y":1826,"w":1444,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1444,"h":24},
+	"sourceSize": {"w":1444,"h":24}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"254a01ad12f778b1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

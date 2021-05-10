@@ -1,0 +1,227 @@
+﻿{"frames": {
+
+"Bitmap 1-1-1-1-1-1-1-1-1-1.png":
+{
+	"frame": {"x":2,"y":2,"w":51,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":51},
+	"sourceSize": {"w":51,"h":51}
+},
+"Bitmap 1-1-1-1-1-1-1-1.png":
+{
+	"frame": {"x":55,"y":2,"w":64,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":60},
+	"sourceSize": {"w":64,"h":60}
+},
+"Bitmap 24":
+{
+	"frame": {"x":121,"y":2,"w":1150,"h":550},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1150,"h":550},
+	"sourceSize": {"w":1150,"h":550}
+},
+"Bitmap 3":
+{
+	"frame": {"x":1503,"y":981,"w":89,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":93},
+	"sourceSize": {"w":89,"h":93}
+},
+"Bitmap 4":
+{
+	"frame": {"x":1273,"y":2,"w":728,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":728,"h":134},
+	"sourceSize": {"w":728,"h":134}
+},
+"Foamed_plastics.png":
+{
+	"frame": {"x":2,"y":554,"w":178,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":88},
+	"sourceSize": {"w":178,"h":88}
+},
+"Paper_clip.png":
+{
+	"frame": {"x":182,"y":554,"w":127,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":36},
+	"sourceSize": {"w":127,"h":36}
+},
+"apple.png copy":
+{
+	"frame": {"x":311,"y":554,"w":109,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":113},
+	"sourceSize": {"w":109,"h":113}
+},
+"candle.png":
+{
+	"frame": {"x":422,"y":554,"w":30,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":168},
+	"sourceSize": {"w":30,"h":168}
+},
+"carrot.png":
+{
+	"frame": {"x":454,"y":554,"w":283,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":55},
+	"sourceSize": {"w":283,"h":55}
+},
+"empty_bottle_qc.png":
+{
+	"frame": {"x":739,"y":554,"w":122,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":232},
+	"sourceSize": {"w":122,"h":232}
+},
+"eraser.png":
+{
+	"frame": {"x":863,"y":554,"w":128,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":80},
+	"sourceSize": {"w":128,"h":80}
+},
+"hitTestAreaPng":
+{
+	"frame": {"x":993,"y":554,"w":64,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":60},
+	"sourceSize": {"w":64,"h":60}
+},
+"lALPBbCc1VpNvUMeQA_64_30.png":
+{
+	"frame": {"x":1059,"y":554,"w":425,"h":425},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":425},
+	"sourceSize": {"w":425,"h":425}
+},
+"sink.png":
+{
+	"frame": {"x":2,"y":981,"w":827,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":827,"h":351},
+	"sourceSize": {"w":827,"h":351}
+},
+"sink_qc.png copy":
+{
+	"frame": {"x":831,"y":981,"w":670,"h":287},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":670,"h":287},
+	"sourceSize": {"w":670,"h":287}
+},
+"stone.png":
+{
+	"frame": {"x":1503,"y":981,"w":89,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":93},
+	"sourceSize": {"w":89,"h":93}
+},
+"wood.png":
+{
+	"frame": {"x":1594,"y":981,"w":123,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":97},
+	"sourceSize": {"w":123,"h":97}
+},
+"回形针_qc.png copy":
+{
+	"frame": {"x":1719,"y":981,"w":113,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":44},
+	"sourceSize": {"w":113,"h":44}
+},
+"木块_qc.png copy":
+{
+	"frame": {"x":1834,"y":981,"w":87,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":43},
+	"sourceSize": {"w":87,"h":43}
+},
+"橡皮擦_qc.png copy":
+{
+	"frame": {"x":1923,"y":981,"w":113,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":43},
+	"sourceSize": {"w":113,"h":43}
+},
+"水 槽_qc.png copy":
+{
+	"frame": {"x":2,"y":1334,"w":87,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":43},
+	"sourceSize": {"w":87,"h":43}
+},
+"泡沫塑料块_qc.png copy":
+{
+	"frame": {"x":91,"y":1334,"w":183,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":43},
+	"sourceSize": {"w":183,"h":43}
+},
+"石 块_qc.png copy":
+{
+	"frame": {"x":276,"y":1334,"w":87,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":43},
+	"sourceSize": {"w":87,"h":43}
+},
+"空 瓶_qc.png copy":
+{
+	"frame": {"x":365,"y":1334,"w":87,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":43},
+	"sourceSize": {"w":87,"h":43}
+},
+"胡萝卜_qc.png copy":
+{
+	"frame": {"x":454,"y":1334,"w":112,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":43},
+	"sourceSize": {"w":112,"h":43}
+},
+"蜡 烛_qc.png copy":
+{
+	"frame": {"x":568,"y":1334,"w":87,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":42},
+	"sourceSize": {"w":87,"h":42}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"098e6619da771d80.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

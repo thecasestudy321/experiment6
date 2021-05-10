@@ -1,0 +1,131 @@
+﻿{"frames": {
+
+"111111":
+{
+	"frame": {"x":2,"y":2,"w":307,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":4},
+	"sourceSize": {"w":307,"h":4}
+},
+"Bitmap 1":
+{
+	"frame": {"x":311,"y":2,"w":40,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":20},
+	"sourceSize": {"w":40,"h":20}
+},
+"Bitmap 2":
+{
+	"frame": {"x":353,"y":2,"w":59,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":11},
+	"sourceSize": {"w":59,"h":11}
+},
+"Bitmap 3":
+{
+	"frame": {"x":414,"y":2,"w":6,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":32},
+	"sourceSize": {"w":6,"h":32}
+},
+"Bitmap 5":
+{
+	"frame": {"x":422,"y":2,"w":237,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":4},
+	"sourceSize": {"w":237,"h":4}
+},
+"Bitmap 6":
+{
+	"frame": {"x":661,"y":2,"w":287,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":270},
+	"sourceSize": {"w":287,"h":270}
+},
+"arrow.png":
+{
+	"frame": {"x":950,"y":2,"w":41,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":80},
+	"sourceSize": {"w":41,"h":80}
+},
+"bollte_water.png":
+{
+	"frame": {"x":2,"y":274,"w":173,"h":305},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":305},
+	"sourceSize": {"w":173,"h":305}
+},
+"salt_beaker_qc.png":
+{
+	"frame": {"x":657,"y":274,"w":273,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":309},
+	"sourceSize": {"w":273,"h":309}
+},
+"scaleX_1.png":
+{
+	"frame": {"x":177,"y":274,"w":441,"h":441},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":441,"h":441},
+	"sourceSize": {"w":441,"h":441}
+},
+"stopper_glassbar.png":
+{
+	"frame": {"x":620,"y":274,"w":35,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":254},
+	"sourceSize": {"w":35,"h":254}
+},
+"water_beaker_qc.png":
+{
+	"frame": {"x":657,"y":274,"w":273,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":309},
+	"sourceSize": {"w":273,"h":309}
+},
+"稀释过的红色液体_qc.png":
+{
+	"frame": {"x":2,"y":717,"w":289,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":44},
+	"sourceSize": {"w":289,"h":44}
+},
+"装有冷水的烧杯_qc.png":
+{
+	"frame": {"x":293,"y":717,"w":253,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":43},
+	"sourceSize": {"w":253,"h":43}
+},
+"装有热水的烧杯_qc.png":
+{
+	"frame": {"x":548,"y":717,"w":253,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":43},
+	"sourceSize": {"w":253,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"bf77792cc8cf57d2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

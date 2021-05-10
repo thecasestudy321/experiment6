@@ -1,0 +1,139 @@
+﻿{"frames": {
+
+"Bitmap 11":
+{
+	"frame": {"x":2,"y":2,"w":176,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":261},
+	"sourceSize": {"w":176,"h":261}
+},
+"Bitmap 1fu":
+{
+	"frame": {"x":180,"y":2,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"Bitmap 2":
+{
+	"frame": {"x":202,"y":2,"w":44,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":22},
+	"sourceSize": {"w":44,"h":22}
+},
+"Bitmap 3":
+{
+	"frame": {"x":248,"y":2,"w":22,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":48},
+	"sourceSize": {"w":22,"h":48}
+},
+"Bitmap 4":
+{
+	"frame": {"x":272,"y":2,"w":76,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":76},
+	"sourceSize": {"w":76,"h":76}
+},
+"Bitmap 6":
+{
+	"frame": {"x":350,"y":2,"w":287,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":287,"h":270},
+	"sourceSize": {"w":287,"h":270}
+},
+"Bitmap 7":
+{
+	"frame": {"x":2,"y":274,"w":770,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":770,"h":24},
+	"sourceSize": {"w":770,"h":24}
+},
+"Bitmap 8":
+{
+	"frame": {"x":2,"y":300,"w":770,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":770,"h":24},
+	"sourceSize": {"w":770,"h":24}
+},
+"Bitmap 9":
+{
+	"frame": {"x":2,"y":326,"w":302,"h":329},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":302,"h":329},
+	"sourceSize": {"w":302,"h":329}
+},
+"balloon.png":
+{
+	"frame": {"x":306,"y":326,"w":89,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":135},
+	"sourceSize": {"w":89,"h":135}
+},
+"hitArea":
+{
+	"frame": {"x":397,"y":326,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"salt_beaker_qc.png":
+{
+	"frame": {"x":449,"y":326,"w":234,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":265},
+	"sourceSize": {"w":234,"h":265}
+},
+"water_beaker_qc.png":
+{
+	"frame": {"x":685,"y":326,"w":234,"h":265},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":265},
+	"sourceSize": {"w":234,"h":265}
+},
+"装有冷水的气球_qc.png":
+{
+	"frame": {"x":2,"y":657,"w":253,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":44},
+	"sourceSize": {"w":253,"h":44}
+},
+"装有冷水的烧杯_qc.png":
+{
+	"frame": {"x":257,"y":657,"w":253,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":43},
+	"sourceSize": {"w":253,"h":43}
+},
+"装有热水的烧杯_qc.png":
+{
+	"frame": {"x":512,"y":657,"w":253,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":253,"h":43},
+	"sourceSize": {"w":253,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"5db75de83f7939c0.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

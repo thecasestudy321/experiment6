@@ -1,0 +1,211 @@
+﻿{"frames": {
+
+"150ml清水_qc.png":
+{
+	"frame": {"x":2,"y":2,"w":169,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":45},
+	"sourceSize": {"w":169,"h":45}
+},
+"Bitmap 16":
+{
+	"frame": {"x":173,"y":2,"w":333,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":333,"h":27},
+	"sourceSize": {"w":333,"h":27}
+},
+"Bitmap 17":
+{
+	"frame": {"x":508,"y":2,"w":237,"h":283},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":283},
+	"sourceSize": {"w":237,"h":283}
+},
+"Bitmap 18":
+{
+	"frame": {"x":747,"y":2,"w":145,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":145,"h":2},
+	"sourceSize": {"w":145,"h":2}
+},
+"Bitmap 20":
+{
+	"frame": {"x":894,"y":2,"w":65,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":34},
+	"sourceSize": {"w":65,"h":34}
+},
+"Bitmap 21":
+{
+	"frame": {"x":961,"y":2,"w":71,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":34},
+	"sourceSize": {"w":71,"h":34}
+},
+"Bitmap 22":
+{
+	"frame": {"x":1034,"y":2,"w":112,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":34},
+	"sourceSize": {"w":112,"h":34}
+},
+"Bitmap 23":
+{
+	"frame": {"x":1148,"y":2,"w":733,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":733,"h":64},
+	"sourceSize": {"w":733,"h":64}
+},
+"Bitmap 3":
+{
+	"frame": {"x":2,"y":287,"w":1272,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1272,"h":28},
+	"sourceSize": {"w":1272,"h":28}
+},
+"Bitmap 7":
+{
+	"frame": {"x":1276,"y":287,"w":55,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":87},
+	"sourceSize": {"w":55,"h":87}
+},
+"ball_3d.png copy":
+{
+	"frame": {"x":1333,"y":287,"w":114,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":113},
+	"sourceSize": {"w":114,"h":113}
+},
+"beaker_qc_x":
+{
+	"frame": {"x":1449,"y":287,"w":273,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":309},
+	"sourceSize": {"w":273,"h":309}
+},
+"boat_2d.png":
+{
+	"frame": {"x":2,"y":598,"w":367,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":79},
+	"sourceSize": {"w":367,"h":79}
+},
+"boat_3d.png":
+{
+	"frame": {"x":371,"y":598,"w":207,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":115},
+	"sourceSize": {"w":207,"h":115}
+},
+"bowl_3d.png":
+{
+	"frame": {"x":580,"y":598,"w":153,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":72},
+	"sourceSize": {"w":153,"h":72}
+},
+"cylinder_3d.png copy":
+{
+	"frame": {"x":735,"y":598,"w":123,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":155},
+	"sourceSize": {"w":123,"h":155}
+},
+"matchs_2d.png":
+{
+	"frame": {"x":860,"y":598,"w":169,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":64},
+	"sourceSize": {"w":169,"h":64}
+},
+"matchs_3d.png":
+{
+	"frame": {"x":1031,"y":598,"w":165,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":99},
+	"sourceSize": {"w":165,"h":99}
+},
+"scale2.png":
+{
+	"frame": {"x":1198,"y":598,"w":63,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":255},
+	"sourceSize": {"w":63,"h":255}
+},
+"whileLine":
+{
+	"frame": {"x":1263,"y":598,"w":187,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":2},
+	"sourceSize": {"w":187,"h":2}
+},
+"橡皮泥圆柱体_qc.png":
+{
+	"frame": {"x":1452,"y":598,"w":219,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":43},
+	"sourceSize": {"w":219,"h":43}
+},
+"橡皮泥实心团_qc.png":
+{
+	"frame": {"x":1673,"y":598,"w":217,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":43},
+	"sourceSize": {"w":217,"h":43}
+},
+"橡皮泥空心火柴盒状_qc.png":
+{
+	"frame": {"x":2,"y":855,"w":288,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":43},
+	"sourceSize": {"w":288,"h":43}
+},
+"橡皮泥空心碗_qc.png":
+{
+	"frame": {"x":292,"y":855,"w":218,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":43},
+	"sourceSize": {"w":218,"h":43}
+},
+"橡皮泥船形_qc.png":
+{
+	"frame": {"x":512,"y":855,"w":183,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":43},
+	"sourceSize": {"w":183,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"ac133445b3c900f2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

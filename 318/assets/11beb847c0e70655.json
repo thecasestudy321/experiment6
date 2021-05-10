@@ -1,0 +1,131 @@
+﻿{"frames": {
+
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":2,"w":124,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":83},
+	"sourceSize": {"w":124,"h":83}
+},
+"Bitmap 3":
+{
+	"frame": {"x":128,"y":2,"w":124,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":83},
+	"sourceSize": {"w":124,"h":83}
+},
+"Bitmap 4":
+{
+	"frame": {"x":254,"y":2,"w":462,"h":462},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":462,"h":462},
+	"sourceSize": {"w":462,"h":462}
+},
+"Bitmap 5":
+{
+	"frame": {"x":718,"y":2,"w":124,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":83},
+	"sourceSize": {"w":124,"h":83}
+},
+"magnifier_qc.png":
+{
+	"frame": {"x":844,"y":2,"w":369,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":369,"h":370},
+	"sourceSize": {"w":369,"h":370}
+},
+"magnifier_txt.png":
+{
+	"frame": {"x":1215,"y":2,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43}
+},
+"scale2_magnifier_qc.png":
+{
+	"frame": {"x":2,"y":466,"w":827,"h":830},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":827,"h":830},
+	"sourceSize": {"w":827,"h":830}
+},
+"棉签_qc.png":
+{
+	"frame": {"x":831,"y":466,"w":296,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":130},
+	"sourceSize": {"w":296,"h":130}
+},
+"棉签_txt.png":
+{
+	"frame": {"x":1129,"y":466,"w":80,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":43},
+	"sourceSize": {"w":80,"h":43}
+},
+"花粉_qc.png":
+{
+	"frame": {"x":1211,"y":466,"w":60,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":76},
+	"sourceSize": {"w":60,"h":76}
+},
+"雄蕊_qc.png":
+{
+	"frame": {"x":1273,"y":466,"w":51,"h":233},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":233},
+	"sourceSize": {"w":51,"h":233}
+},
+"雄蕊_txt.png":
+{
+	"frame": {"x":1326,"y":466,"w":80,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":43},
+	"sourceSize": {"w":80,"h":43}
+},
+"雌蕊_big_qc.png":
+{
+	"frame": {"x":1408,"y":466,"w":293,"h":773},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":293,"h":773},
+	"sourceSize": {"w":293,"h":773}
+},
+"雌蕊_qc.png":
+{
+	"frame": {"x":1703,"y":466,"w":106,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":276},
+	"sourceSize": {"w":106,"h":276}
+},
+"雌蕊_txt.png":
+{
+	"frame": {"x":1811,"y":466,"w":80,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":43},
+	"sourceSize": {"w":80,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"11beb847c0e70655.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

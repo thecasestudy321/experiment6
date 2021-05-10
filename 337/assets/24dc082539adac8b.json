@@ -1,0 +1,291 @@
+﻿{"frames": {
+
+"200ml清水_qc.png":
+{
+	"frame": {"x":2,"y":2,"w":176,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":45},
+	"sourceSize": {"w":176,"h":45}
+},
+"Bitmap 1-1-1-1-1-1-1-1.png":
+{
+	"frame": {"x":180,"y":2,"w":64,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":60},
+	"sourceSize": {"w":64,"h":60}
+},
+"Bitmap 10 copy":
+{
+	"frame": {"x":246,"y":2,"w":2,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":77},
+	"sourceSize": {"w":2,"h":77}
+},
+"Bitmap 10 copy 2":
+{
+	"frame": {"x":250,"y":2,"w":1280,"h":720},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1280,"h":720},
+	"sourceSize": {"w":1280,"h":720}
+},
+"Bitmap 11 copy":
+{
+	"frame": {"x":1532,"y":2,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"Bitmap 14 copy":
+{
+	"frame": {"x":1578,"y":2,"w":132,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":38},
+	"sourceSize": {"w":132,"h":38}
+},
+"Bitmap 14.png copy":
+{
+	"frame": {"x":1712,"y":2,"w":119,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":44},
+	"sourceSize": {"w":119,"h":44}
+},
+"Bitmap 17 copy":
+{
+	"frame": {"x":1833,"y":2,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+"Bitmap 2":
+{
+	"frame": {"x":1879,"y":2,"w":36,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":39},
+	"sourceSize": {"w":36,"h":39}
+},
+"Bitmap 21 copy":
+{
+	"frame": {"x":1917,"y":2,"w":119,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":44},
+	"sourceSize": {"w":119,"h":44}
+},
+"Bitmap 25 copy":
+{
+	"frame": {"x":2,"y":724,"w":100,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":38},
+	"sourceSize": {"w":100,"h":38}
+},
+"Bitmap 29":
+{
+	"frame": {"x":104,"y":724,"w":162,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":2},
+	"sourceSize": {"w":162,"h":2}
+},
+"Bitmap 30":
+{
+	"frame": {"x":268,"y":724,"w":68,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":38},
+	"sourceSize": {"w":68,"h":38}
+},
+"Bitmap 31":
+{
+	"frame": {"x":338,"y":724,"w":132,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":38},
+	"sourceSize": {"w":132,"h":38}
+},
+"Bitmap 32":
+{
+	"frame": {"x":472,"y":724,"w":68,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":38},
+	"sourceSize": {"w":68,"h":38}
+},
+"Bitmap 34":
+{
+	"frame": {"x":542,"y":724,"w":670,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":670,"h":44},
+	"sourceSize": {"w":670,"h":44}
+},
+"Bitmap 43":
+{
+	"frame": {"x":1214,"y":724,"w":117,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":50},
+	"sourceSize": {"w":117,"h":50}
+},
+"Bitmap 44":
+{
+	"frame": {"x":1333,"y":724,"w":139,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":139,"h":47},
+	"sourceSize": {"w":139,"h":47}
+},
+"Bitmap 45":
+{
+	"frame": {"x":1474,"y":724,"w":81,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":50},
+	"sourceSize": {"w":81,"h":50}
+},
+"Bitmap 46":
+{
+	"frame": {"x":1557,"y":724,"w":127,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":59},
+	"sourceSize": {"w":127,"h":59}
+},
+"Bitmap 47":
+{
+	"frame": {"x":1686,"y":724,"w":61,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":58},
+	"sourceSize": {"w":61,"h":58}
+},
+"Bitmap 6 复制":
+{
+	"frame": {"x":1749,"y":724,"w":167,"h":196},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":196},
+	"sourceSize": {"w":167,"h":196}
+},
+"Bitmap 76":
+{
+	"frame": {"x":2,"y":922,"w":237,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":237,"h":4},
+	"sourceSize": {"w":237,"h":4}
+},
+"ball_3d.png copy":
+{
+	"frame": {"x":241,"y":922,"w":114,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":113},
+	"sourceSize": {"w":114,"h":113}
+},
+"beaker_qc.png copy 3":
+{
+	"frame": {"x":357,"y":922,"w":273,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":309},
+	"sourceSize": {"w":273,"h":309}
+},
+"boat_3d.png":
+{
+	"frame": {"x":632,"y":922,"w":207,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":115},
+	"sourceSize": {"w":207,"h":115}
+},
+"bowl_3d.png":
+{
+	"frame": {"x":841,"y":922,"w":153,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":72},
+	"sourceSize": {"w":153,"h":72}
+},
+"cylinder_3d.png copy":
+{
+	"frame": {"x":996,"y":922,"w":123,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":155},
+	"sourceSize": {"w":123,"h":155}
+},
+"matchs_3d.png":
+{
+	"frame": {"x":1121,"y":922,"w":165,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":99},
+	"sourceSize": {"w":165,"h":99}
+},
+"scale2.png":
+{
+	"frame": {"x":1288,"y":922,"w":63,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":255},
+	"sourceSize": {"w":63,"h":255}
+},
+"橡皮泥圆柱体_qc.png":
+{
+	"frame": {"x":1353,"y":922,"w":219,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":43},
+	"sourceSize": {"w":219,"h":43}
+},
+"橡皮泥实心团_qc.png":
+{
+	"frame": {"x":1574,"y":922,"w":217,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":43},
+	"sourceSize": {"w":217,"h":43}
+},
+"橡皮泥空心火柴盒状_qc.png":
+{
+	"frame": {"x":2,"y":1233,"w":288,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":43},
+	"sourceSize": {"w":288,"h":43}
+},
+"橡皮泥空心碗_qc.png":
+{
+	"frame": {"x":292,"y":1233,"w":218,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":43},
+	"sourceSize": {"w":218,"h":43}
+},
+"橡皮泥船形_qc.png":
+{
+	"frame": {"x":512,"y":1233,"w":183,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":43},
+	"sourceSize": {"w":183,"h":43}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.0.0.112",
+	"image":"24dc082539adac8b.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
